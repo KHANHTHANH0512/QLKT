@@ -1,0 +1,279 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTINF:-1 tvg-id="MyTV_VTV1 HD" tvg-name="VTV1 HD" tvg-logo="https://imgur.com/niHBkS0.png" group-title="VTV",VTV1 HD
+http://192.168.1.1:2401/rtp/232.84.1.117:10254
+#EXTINF:-1 tvg-id="MyTV_VTV2 HD" tvg-name="VTV2" tvg-logo="https://imgur.com/EUD7roS.png" group-title="VTV",VTV2 HD
+http://192.168.1.1:2401/rtp/232.84.2.31:10594
+#EXTINF:-1 tvg-id="MyTV_VTV3 HD" tvg-name="VTV3_HD" tvg-logo="https://imgur.com/GkxqoUF.png" group-title="VTV",VTV3 HD
+http://192.168.1.1:2401/rtp/232.84.1.118:10260
+#EXTINF:-1 tvg-id="MyTV_VTV4 HD" tvg-name="VTV4" tvg-logo="https://imgur.com/m4BK6rk.png" group-title="VTV",VTV4 HD
+http://192.168.1.1:2401/rtp/232.84.2.32:10600
+#EXTINF:-1 tvg-id="MyTV_VTV5 HD " tvg-name="VTV5" tvg-logo="https://imgur.com/6s6sIqT.png" group-title="VTV",VTV5 HD 
+http://192.168.1.1:2401/rtp/232.84.2.33:10606
+#EXTINF:-1 tvg-id="MyTV_VTV6 HD" tvg-name="VTV6 HD" tvg-logo="https://imgur.com/btozinY.png" group-title="VTV",VTV6 HD
+http://192.168.1.1:2401/rtp/232.84.1.119:10266
+#EXTINF:-1 tvg-id="MyTV_VTV8 HD - Đà Nẵng" tvg-name="VTV8 HD" tvg-logo="https://imgur.com/FELuRu7.png" group-title="VTV",VTV8 HD - Đà Nẵng
+http://192.168.1.1:2401/rtp/232.84.2.34:10612
+#EXTINF:-1 tvg-id="MyTV_VTV9 HD - Cần Thơ" tvg-name="VTV9" tvg-logo="https://imgur.com/1CdBlxR.png" group-title="VTV",VTV9 HD - Cần Thơ
+http://192.168.1.1:2401/rtp/232.84.2.35:10618
+#EXTINF:-1 tvg-id="MyTV_HTV1" tvg-name="HTV1" tvg-logo="https://imgur.com/gftnwdV.png" group-title="HTV",HTV1
+http://192.168.1.1:2401/rtp/232.84.1.35:8184
+#EXTINF:-1 tvg-id="MyTV_HTV2 HD" tvg-name="HTV2 HD" tvg-logo="https://imgur.com/O6jgDUM.png" group-title="HTV",HTV2 HD
+http://192.168.1.1:2401/rtp/232.84.2.182:9306
+#EXTINF:-1 tvg-id="MyTV_HTV3" tvg-name="HTV3" tvg-logo="https://imgur.com/gjZnjmF.png" group-title="HTV",HTV3
+http://192.168.1.1:2401/rtp/232.84.1.104:8598
+#EXTINF:-1 tvg-id="MyTV_HTV4" tvg-name="HTV4" tvg-logo="https://imgur.com/yfQlyez.png" group-title="HTV",HTV4
+http://192.168.1.1:2401/rtp/232.84.1.25:8124
+#EXTINF:-1 tvg-id="MyTV_HTV7 HD" tvg-name="HTV7 HD" tvg-logo="https://imgur.com/OfGoIJ4.png" group-title="HTV",HTV7 HD
+http://192.168.1.1:2401/rtp/232.84.1.223:9312
+#EXTINF:-1 tvg-id="MyTV_HTV9 HD" tvg-name="HTV9" tvg-logo="https://imgur.com/Hqo8hqb.png" group-title="HTV",HTV9 HD
+http://192.168.1.1:2401/rtp/232.84.1.224:9318
+#EXTINF:-1 tvg-id="MyTV_HTV - Thể thao" tvg-name="HTV_The_thao" tvg-logo="https://imgur.com/A8RNAwQ.png" group-title="HTV",HTV - Thể thao
+http://192.168.1.1:2401/rtp/232.84.1.24:8118
+#EXTINF:-1 tvg-id="MyTV_VTVCab1 - Giải trí TV" tvg-name="VTVCab 1 - Giai Tri" tvg-logo="https://imgur.com/9TBBQNL.png" group-title="VTV Cáp",VTVCab1 - Giải trí TV
+http://192.168.1.1:2401/rtp/232.84.1.143:8832
+#EXTINF:-1 tvg-id="MyTV_VTVCab2 - Phim Việt" tvg-name="VTVCab 2 - Phim Viet" tvg-logo="https://imgur.com/MSs1rGc.png" group-title="VTV Cáp",VTVCab2 - Phim Việt
+http://192.168.1.1:2401/rtp/232.84.1.168:8982
+#EXTINF:-1 tvg-id="MyTV_VTVCab3 - Thể thao TV HD" tvg-name="VTVCab 3 - The Thao TV HD" tvg-logo="https://imgur.com/QfDeJpD.png" group-title="VTV Cáp",VTVCab3 - Thể thao TV HD
+http://192.168.1.1:2401/rtp/232.84.1.207:9216
+#EXTINF:-1 tvg-id="MyTV_VTVCab4 - Văn hóa" tvg-name="VTVCab 4 - Van Hoa" tvg-logo="https://imgur.com/q2D3u2L.png" group-title="VTV Cáp",VTVCab4 - Văn hóa
+http://192.168.1.1:2401/rtp/232.84.1.169:8988
+#EXTINF:-1 tvg-id="MyTV_VTVCab5 - E Channel" tvg-name="VTVCab 5 - E Channel" tvg-logo="https://imgur.com/FoGuNrA.png" group-title="VTV Cáp",VTVCab5 - E Channel
+http://192.168.1.1:2401/rtp/232.84.1.193:9132
+#EXTINF:-1 tvg-id="MyTV_VTVCab6 - Hay TV" tvg-name="VTVCab 6 - Hay TV" tvg-logo="https://imgur.com/RHEqrMK.png" group-title="VTV Cáp",VTVCab6 - Hay TV
+http://192.168.1.1:2401/rtp/232.84.1.220:9294
+#EXTINF:-1 tvg-id="MyTV_VTVCab7 - D Dramas" tvg-name="VTVCab 7 - D Drama" tvg-logo="https://imgur.com/DIgineG.png" group-title="VTV Cáp",VTVCab7 - D Dramas
+http://192.168.1.1:2401/rtp/232.84.1.205:9204
+#EXTINF:-1 tvg-id="MyTV_VTVCab8 - BiBi" tvg-name="VTVCab 8 - BiBi" tvg-logo="https://imgur.com/1ORpCYB.png" group-title="VTV Cáp",VTVCab8 - BiBi
+http://192.168.1.1:2401/rtp/232.84.1.206:9210
+#EXTINF:-1 tvg-id="MyTV_VTVCab10 - O2TV" tvg-name="VTVCab 10 - O2TV" tvg-logo="https://imgur.com/Qu4654z.png" group-title="VTV Cáp",VTVCab10 - O2TV
+http://192.168.1.1:2401/rtp/232.84.1.26:8130
+#EXTINF:-1 tvg-id="MyTV_VTVCab12 - Style TV" tvg-name="VTVCab 12 - Style TV HD" tvg-logo="https://imgur.com/RcLcw6o.png" group-title="VTV Cáp",VTVCab12 - Style TV
+http://192.168.1.1:2401/rtp/232.84.1.244:9438
+#EXTINF:-1 tvg-id="MyTV_VTVCab13 - HYUNDAI" tvg-name="VTVCab13_HYUNDAI.png" tvg-logo="https://imgur.com/HwMUDwy.png" group-title="VTV Cáp",VTVCab13 - HYUNDAI
+http://192.168.1.1:2401/rtp/232.84.1.142:10386
+#EXTINF:-1 tvg-id="MyTV_VTVCab14 - Lotte" tvg-name="VTVCab14_Lotte" tvg-logo="https://imgur.com/QWGrazN.png" group-title="VTV Cáp",VTVCab14 - Lotte
+http://192.168.1.1:2401/rtp/232.84.1.140:10356
+#EXTINF:-1 tvg-id="MyTV_VTVCab16 - Bóng đá TV HD" tvg-name="VTVCab 16 - Bong Da TV HD" tvg-logo="https://imgur.com/Q5tZHnj.png" group-title="VTV Cáp",VTVCab16 - Bóng đá TV HD
+http://192.168.1.1:2401/rtp/232.84.1.210:9234
+#EXTINF:-1 tvg-id="MyTV_VTVCab17 - Yeah1 TV" tvg-name="VTVCab 17 - Yeah1 TV" tvg-logo="https://imgur.com/fBWtwIH.png" group-title="VTV Cáp",VTVCab17 - Yeah1 TV
+http://192.168.1.1:2401/rtp/232.84.1.217:9276
+#EXTINF:-1 tvg-id="MyTV_VTVCab20 - VFamily" tvg-name="VTVCab 20 - V Family" tvg-logo="https://imgur.com/gLpFARR.png" group-title="VTV Cáp",VTVCab20 - VFamily
+http://192.168.1.1:2401/rtp/232.84.1.245:10344
+#EXTINF:-1 tvg-id="MyTV_VTVCab - MTV HD" tvg-name="MTV" tvg-logo="https://imgur.com/YXNQJTt.png" group-title="VTV Cáp",VTVCab - MTV HD
+http://192.168.1.1:2401/rtp/232.84.2.171:10834
+#EXTINF:-1 tvg-id="MyTV_HTVC - Ca nhạc" tvg-name="HTVC - Ca Nhac" tvg-logo="https://imgur.com/ifeb8fC.png" group-title="HTV Cáp",HTVC - Ca nhạc
+http://192.168.1.1:2401/rtp/232.84.1.126:8730
+#EXTINF:-1 tvg-id="MyTV_HTVC - Du lịch & Cuộc sống" tvg-name="HTVC - Du Lich" tvg-logo="https://imgur.com/nTF9DFR.png" group-title="HTV Cáp",HTVC - Du lịch & Cuộc sống
+http://192.168.1.1:2401/rtp/232.84.1.221:9300
+#EXTINF:-1 tvg-id="MyTV_HTVC - Gia đình" tvg-name="HTVC - Gia Dinh" tvg-logo="https://imgur.com/CKOqpVy.png" group-title="HTV Cáp",HTVC - Gia đình
+http://192.168.1.1:2401/rtp/232.84.1.170:8994
+#EXTINF:-1 tvg-id="MyTV_HTVC - Mua sắm tiêu dùng" tvg-name="HTVC_Shopping" tvg-logo="https://imgur.com/5vKANRg.png" group-title="HTV Cáp",HTVC - Mua sắm tiêu dùng
+http://192.168.1.1:2401/rtp/232.84.1.229:9348
+#EXTINF:-1 tvg-id="MyTV_HTVC - Paramount HD" tvg-name="HTVC - Phim HD" tvg-logo="https://imgur.com/eykbdo0.png" group-title="HTV Cáp",HTVC - Paramount HD
+http://192.168.1.1:2401/rtp/232.84.2.133:9594
+#EXTINF:-1 tvg-id="MyTV_HTVC - Phụ nữ" tvg-name="HTVC - Phu Nu" tvg-logo="https://imgur.com/yXZ2rvL.png" group-title="HTV Cáp",HTVC - Phụ nữ
+http://192.168.1.1:2401/rtp/232.84.1.127:8736
+#EXTINF:-1 tvg-id="MyTV_HTVC - Thuần Việt" tvg-name="HTVC - Thuan Viet" tvg-logo="https://imgur.com/KtMeo6q.png" group-title="HTV Cáp",HTVC - Thuần Việt
+http://192.168.1.1:2401/rtp/232.84.1.22:8106
+#EXTINF:-1 tvg-id="MyTV_HTVC - Thuần Việt HD" tvg-name="HTVC - Thuan Viet HD" tvg-logo="https://imgur.com/M4rF27R.png" group-title="HTV Cáp",HTVC - Thuần Việt HD
+http://192.168.1.1:2401/rtp/232.84.2.134:9600
+#EXTINF:-1 tvg-id="MyTV_VTC1 HD" tvg-name="VTC1 HD" tvg-logo="https://imgur.com/8jgYSbN.png" group-title="VTC",VTC1 HD
+http://192.168.1.1:2401/rtp/232.84.2.173:10846
+#EXTINF:-1 tvg-id="MyTV_VTC2" tvg-name="VTC2" tvg-logo="https://imgur.com/H6FMp9C.png" group-title="VTC",VTC2
+http://192.168.1.1:2401/rtp/232.84.1.57:8322
+#EXTINF:-1 tvg-id="MyTV_VTC3 HD" tvg-name="VTC3 HD" tvg-logo="https://imgur.com/kwujTlD.png" group-title="VTC",VTC3 HD
+http://192.168.1.1:2401/rtp/232.84.1.81:8460
+#EXTINF:-1 tvg-id="MyTV_VTC4 - yeah1Family HD" tvg-name="VTC4" tvg-logo="https://imgur.com/VsjIiRT.png" group-title="VTC",VTC4 - yeah1Family HD
+http://192.168.1.1:2401/rtp/232.84.2.149:10714
+#EXTINF:-1 tvg-id="MyTV_VTC5 - TV Blue HD" tvg-name="VTC5" tvg-logo="https://imgur.com/q0RPSP8.png" group-title="VTC",VTC5 - TV Blue HD
+http://192.168.1.1:2401/rtp/232.84.2.150:10720
+#EXTINF:-1 tvg-id="MyTV_VTC6 - Sài Gòn Channel" tvg-name="VTC6" tvg-logo="https://imgur.com/GhgvSCX.png" group-title="VTC",VTC6 - Sài Gòn Channel
+http://192.168.1.1:2401/rtp/232.84.1.58:8328
+#EXTINF:-1 tvg-id="MyTV_VTC7 - Today TV HD" tvg-name="VTC7 - Today" tvg-logo="https://imgur.com/iMDjKF9.png" group-title="VTC",VTC7 - Today TV HD
+http://192.168.1.1:2401/rtp/232.84.2.151:10726
+#EXTINF:-1 tvg-id="MyTV_VTC8" tvg-name="VTC8" tvg-logo="https://imgur.com/igCqfZh.png" group-title="VTC",VTC8
+http://192.168.1.1:2401/rtp/232.84.2.39:10642
+#EXTINF:-1 tvg-id="MyTV_VTC9 HD" tvg-name="VTC9" tvg-logo="https://imgur.com/1RDaToZ.png" group-title="VTC",VTC9 HD
+http://192.168.1.1:2401/rtp/232.84.2.152:10732
+#EXTINF:-1 tvg-id="MyTV_VTC10 - Nét Việt" tvg-name="VTC10" tvg-logo="https://imgur.com/1U7CKCF.png" group-title="VTC",VTC10 - Nét Việt
+http://192.168.1.1:2401/rtp/232.84.1.214:9258
+#EXTINF:-1 tvg-id="MyTV_VTC11 - kids TV" tvg-name="VTC11" tvg-logo="https://imgur.com/UaAmF0L.png" group-title="VTC",VTC11 - kids TV
+http://192.168.1.1:2401/rtp/232.84.1.61:8340
+#EXTINF:-1 tvg-id="MyTV_VTC12 - TOP Shopping" tvg-name="VTC12" tvg-logo="https://imgur.com/WaXDncJ.png" group-title="VTC",VTC12 - TOP Shopping
+http://192.168.1.1:2401/rtp/232.84.1.202:9186
+#EXTINF:-1 tvg-id="MyTV_VTC13 - Ca nhạc HD" tvg-name="VTC13 - iTV HD" tvg-logo="https://imgur.com/lNji7l0.png" group-title="VTC",VTC13 - Ca nhạc HD
+http://192.168.1.1:2401/rtp/232.84.1.74:8418
+#EXTINF:-1 tvg-id="MyTV_VTC14" tvg-name="VTC14" tvg-logo="https://imgur.com/Kqt7Myy.png" group-title="VTC",VTC14
+http://192.168.1.1:2401/rtp/232.84.1.216:9270
+#EXTINF:-1 tvg-id="MyTV_VTC16 - 3NTV" tvg-name="VTC16" tvg-logo="https://imgur.com/22TpWVd.png" group-title="VTC",VTC16 - 3NTV
+http://192.168.1.1:2401/rtp/232.84.1.215:9264
+#EXTINF:-1 tvg-id="MyTV_Animal Planet HD" tvg-name="Animal Planet" tvg-logo="https://imgur.com/Qtl0cVC.png" group-title="Quốc tế",Animal Planet HD
+http://192.168.1.1:2401/rtp/232.84.2.147:10702
+#EXTINF:-1 tvg-id="MyTV_Asian Food Channel HD" tvg-name="Asian Food Channel" tvg-logo="https://imgur.com/rfR7R00.png" group-title="Quốc tế",Asian Food Channel HD
+http://192.168.1.1:2401/rtp/232.84.2.129:9570
+#EXTINF:-1 tvg-id="MyTV_Australia Plus" tvg-name="Australia_Plus" tvg-logo="https://imgur.com/lkbxdxf.png" group-title="Quốc tế",Australia Plus
+http://192.168.1.1:2401/rtp/232.84.2.244:10482
+#EXTINF:-1 tvg-id="MyTV_AXN HD" tvg-name="AXN" tvg-logo="https://imgur.com/AyyX0IP.png" group-title="Quốc tế",AXN HD
+http://192.168.1.1:2401/rtp/232.84.2.140:10660
+#EXTINF:-1 tvg-id="MyTV_BabyTV HD" tvg-name="Baby" tvg-logo="https://imgur.com/LBU2zCq.png" group-title="Quốc tế",BabyTV HD
+http://192.168.1.1:2401/rtp/232.84.2.36:10624
+#EXTINF:-1 tvg-id="MyTV_Cartoon Nettwork HD" tvg-name="Cartoon_Network_HD" tvg-logo="https://imgur.com/5F7FNTO.png" group-title="Quốc tế",Cartoon Nettwork HD
+http://192.168.1.1:2401/rtp/232.84.2.144:10684
+#EXTINF:-1 tvg-id="MyTV_DISCOVERY HD" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/pWbVbyA.png" group-title="Quốc tế",DISCOVERY HD
+http://192.168.1.1:2401/rtp/232.84.2.53:10528
+#EXTINF:-1 tvg-id="MyTV_Fashion HD" tvg-name="Fashion TV" tvg-logo="https://imgur.com/AVm8t3Z.png" group-title="Quốc tế",Fashion HD
+http://192.168.1.1:2401/rtp/232.84.2.52:10522
+#EXTINF:-1 tvg-id="MyTV_FOX HD" tvg-name="FOX_HD" tvg-logo="https://imgur.com/190BUhW.png" group-title="Quốc tế",FOX HD
+http://192.168.1.1:2401/rtp/232.84.2.120:8448
+#EXTINF:-1 tvg-id="MyTV_FOX Life HD" tvg-name="FOX Life HD" tvg-logo="https://imgur.com/LsOkH5s.png" group-title="Quốc tế",FOX Life HD
+http://192.168.1.1:2401/rtp/232.84.1.78:8442
+#EXTINF:-1 tvg-id="MyTV_FOX Movies HD" tvg-name="FOX Movies HD" tvg-logo="https://imgur.com/keaKVLJ.png" group-title="Quốc tế",FOX Movies HD
+http://192.168.1.1:2401/rtp/232.84.1.77:8436
+#EXTINF:-1 tvg-id="MyTV_FOX Sports 2 HD" tvg-name="Fox Sports" tvg-logo="https://imgur.com/YGaEdHU.png" group-title="Quốc tế",FOX Sports 2 HD
+http://192.168.1.1:2401/rtp/232.84.2.142:10672
+#EXTINF:-1 tvg-id="MyTV_FOX Sports HD" tvg-name="Fox Sports 2" tvg-logo="https://imgur.com/JWjKjjL.png" group-title="Quốc tế",FOX Sports HD
+http://192.168.1.1:2401/rtp/232.84.2.141:10666
+#EXTINF:-1 tvg-id="MyTV_HBO HD" tvg-name="HBO" tvg-logo="https://imgur.com/UmfhBQU.png" group-title="Quốc tế",HBO HD
+http://192.168.1.1:2401/rtp/232.84.2.138:10648
+#EXTINF:-1 tvg-id="MyTV_Max by HBO HD" tvg-name="MAX_by_HBO" tvg-logo="https://imgur.com/76pIxyD.png" group-title="Quốc tế",Max by HBO HD
+http://192.168.1.1:2401/rtp/232.84.2.139:10654
+#EXTINF:-1 tvg-id="MyTV_MEDIACORP HD" tvg-name="Channel News Asia" tvg-logo="https://imgur.com/NvoNVEi.png" group-title="Quốc tế",MEDIACORP HD
+http://192.168.1.1:2401/rtp/232.84.2.55:10540
+#EXTINF:-1 tvg-id="MyTV_Nat Geo People HD" tvg-name="NGP_HD" tvg-logo="https://imgur.com/u4sXnHf.png" group-title="Quốc tế",Nat Geo People HD
+http://192.168.1.1:2401/rtp/232.84.1.76:8430
+#EXTINF:-1 tvg-id="MyTV_Nat Geo Wild HD" tvg-name="NGW_HD" tvg-logo="https://imgur.com/22bDjCQ.png" group-title="Quốc tế",Nat Geo Wild HD
+http://192.168.1.1:2401/rtp/232.84.2.123:8454
+#EXTINF:-1 tvg-id="MyTV_National Geographic HD" tvg-name="National Geographic HD" tvg-logo="https://imgur.com/iYHGPa1.png" group-title="Quốc tế",National Geographic HD
+http://192.168.1.1:2401/rtp/232.84.1.1:7980
+#EXTINF:-1 tvg-id="MyTV_NHK WORLD HD" tvg-name="NHK World" tvg-logo="https://imgur.com/pjSWuxG.png" group-title="Quốc tế",NHK WORLD HD
+http://192.168.1.1:2401/rtp/232.84.1.72:8406
+#EXTINF:-1 tvg-id="MyTV_Red By HBO HD" tvg-name="RED By HBO HD" tvg-logo="https://imgur.com/tLRt17t.png" group-title="Quốc tế",Red By HBO HD
+http://192.168.1.1:2401/rtp/232.84.2.172:10840
+#EXTINF:-1 tvg-id="MyTV_Warner HD" tvg-name="Warner_HD" tvg-logo="https://imgur.com/9qJI1Mg.png" group-title="Quốc tế",Warner HD
+http://192.168.1.1:2401/rtp/232.84.2.51:10516
+#EXTINF:-1 tvg-id="MyTV_Bắc Giang" tvg-name="Bac_Giang" tvg-logo="https://imgur.com/2HAIP3G.png" group-title="Địa phương",Bắc Giang
+http://192.168.1.1:2401/rtp/232.84.2.89:8754
+#EXTINF:-1 tvg-id="MyTV_Bắc Ninh HD" tvg-name="Bac Ninh" tvg-logo="https://imgur.com/4KdIzZE.png" group-title="Địa phương",Bắc Ninh HD
+http://192.168.1.1:2401/rtp/232.84.2.245:10506
+#EXTINF:-1 tvg-id="MyTV_Hà Nội 1 HD" tvg-name="Ha Noi 1" tvg-logo="https://imgur.com/dr2eb5D.png" group-title="Địa phương",Hà Nội 1 HD
+http://192.168.1.1:2401/rtp/232.84.2.153:10738
+#EXTINF:-1 tvg-id="MyTV_Hà Nội 2 HD" tvg-name="Ha Noi 2" tvg-logo="https://imgur.com/HCkpPFZ.png" group-title="Địa phương",Hà Nội 2 HD
+http://192.168.1.1:2401/rtp/232.84.2.154:10744
+#EXTINF:-1 tvg-id="MyTV_An ninh TV" tvg-name="ANTV" tvg-logo="https://imgur.com/kHZtzZw.png" group-title="Khác",An ninh TV
+http://192.168.1.1:2401/rtp/232.84.1.212:9246
+#EXTINF:-1 tvg-id="MyTV_HCaTV - HITV" tvg-name="HCaTV_HiTV" tvg-logo="https://imgur.com/PLIBb0f.png" group-title="Khác",HCaTV - HITV
+http://192.168.1.1:2401/rtp/232.84.1.55:8310
+#EXTINF:-1 tvg-id="MyTV_Nhân dân HD" tvg-name="Nhan_dan_HD" tvg-logo="https://imgur.com/To0jQgj.png" group-title="Khác",Nhân dân HD
+http://192.168.1.1:2401/rtp/232.84.2.169:10822
+#EXTINF:-1 tvg-id="MyTV_Quốc hội HD" tvg-name="Quoc_hoi_HD" tvg-logo="https://imgur.com/G154n6j.png" group-title="Khác",Quốc hội HD
+http://192.168.1.1:2401/rtp/232.84.1.234:10290
+#EXTINF:-1 tvg-id="MyTV_Quốc phòng Việt Nam HD" tvg-name="QPVN_HD" tvg-logo="https://imgur.com/xtA4AlV.png" group-title="Khác",Quốc phòng Việt Nam HD
+http://192.168.1.1:2401/rtp/232.84.2.168:10816
+#EXTINF:-1 tvg-id="MyTV_Thông tấn xã Việt Nam" tvg-name="TTXVN" tvg-logo="https://imgur.com/ZstB6Eg.png" group-title="Khác",Thông tấn xã Việt Nam
+http://192.168.1.1:2401/rtp/232.84.1.52:8292
+#EXTINF:-1 tvg-id="MyTV_K+ Nhịp sống HD" tvg-name="K+NS HD" tvg-logo="https://imgur.com/faJYAfY.png" group-title="K+",K+ Nhịp sống HD
+http://192.168.1.1:2401/rtp/232.84.1.123:10320
+#EXTINF:-1 tvg-id="MyTV_K+ Phái mạnh HD" tvg-name="K+PM HD" tvg-logo="https://imgur.com/YrA0U7L.png" group-title="K+",K+ Phái mạnh HD
+http://192.168.1.1:2401/rtp/232.84.1.125:10326
+#EXTINF:-1 tvg-id="MyTV_K+ Phong cách HD" tvg-name="K+PC HD" tvg-logo="https://imgur.com/ReSrquY.png" group-title="K+",K+ Phong cách HD
+http://192.168.1.1:2401/rtp/232.84.1.176:10374
+#EXTINF:-1 tvg-id="MyTV_K+1 HD" tvg-name="K+1 HD" tvg-logo="https://imgur.com/LMknH43.png" group-title="K+",K+1 HD
+http://192.168.1.1:2401/rtp/232.84.1.122:10314
+#EXTINF:-1 tvg-id="MyTV_K+ Nhịp sống" tvg-name="K+NS" tvg-logo="https://imgur.com/faJYAfY.png" group-title="K+",K+ Nhịp sống
+http://192.168.1.1:2401/rtp/232.84.1.97:8556
+#EXTINF:-1 tvg-id="MyTV_K+ Phái mạnh" tvg-name="K+PM" tvg-logo="https://imgur.com/YrA0U7L.png" group-title="K+",K+ Phái mạnh
+http://192.168.1.1:2401/rtp/232.84.1.98:8562
+#EXTINF:-1 tvg-id="MyTV_K+ Phong cách" tvg-name="K+PC" tvg-logo="https://imgur.com/pjbfpPc.png" group-title="K+",K+ Phong cách
+http://192.168.1.1:2401/rtp/232.84.1.131:10368
+#EXTINF:-1 tvg-id="MyTV_K+1" tvg-name="K+1" tvg-logo="https://imgur.com/LMknH43.png" group-title="K+",K+1
+http://192.168.1.1:2401/rtp/232.84.1.96:8550
+#EXTINF:-1 tvg-id="MyTV_VTV1" tvg-name="VTV1" tvg-logo="https://imgur.com/4zZj2Yo.png" group-title="VTV",VTV1
+http://192.168.1.1:2401/rtp/232.84.1.27:8136
+#EXTINF:-1 tvg-id="MyTV_VTV2" tvg-name="VTV2" tvg-logo="https://imgur.com/3tbJKRi.png" group-title="VTV",VTV2
+http://192.168.1.1:2401/rtp/232.84.1.39:8208
+#EXTINF:-1 tvg-id="MyTV_VTV3" tvg-name="VTV3" tvg-logo="https://imgur.com/AV2Lj7h.png" group-title="VTV",VTV3
+http://192.168.1.1:2401/rtp/232.84.1.28:8142
+#EXTINF:-1 tvg-id="MyTV_VTV4" tvg-name="VTV4" tvg-logo="https://imgur.com/2aFkzq6.png" group-title="VTV",VTV4
+http://192.168.1.1:2401/rtp/232.84.1.40:8214
+#EXTINF:-1 tvg-id="MyTV_VTV5" tvg-name="VTV5" tvg-logo="https://imgur.com/0K2F6O9.png" group-title="VTV",VTV5
+http://192.168.1.1:2401/rtp/232.84.1.41:8220
+#EXTINF:-1 tvg-id="MyTV_VTV6" tvg-name="VTV6" tvg-logo="https://imgur.com/N0igKB7.png" group-title="VTV",VTV6
+http://192.168.1.1:2401/rtp/232.84.1.42:8226
+#EXTINF:-1 tvg-id="MyTV_VTV8 - Đà Nẵng" tvg-name="VTV8 HD" tvg-logo="https://imgur.com/FRNYBR0.png" group-title="VTV",VTV8 - Đà Nẵng
+http://192.168.1.1:2401/rtp/232.84.1.148:8862
+#EXTINF:-1 tvg-id="MyTV_VTV9 - Cần Thơ" tvg-name="VTV9" tvg-logo="https://imgur.com/tjH2BXJ.png" group-title="VTV",VTV9 - Cần Thơ
+http://192.168.1.1:2401/rtp/232.84.1.241:9420
+#EXTINF:-1 tvg-id="MyTV_HTV2" tvg-name="HTV2" tvg-logo="https://imgur.com/EAUoAfJ.png" group-title="HTV",HTV2
+http://192.168.1.1:2401/rtp/232.84.1.36:8190
+#EXTINF:-1 tvg-id="MyTV_HTV7" tvg-name="HTV7" tvg-logo="https://imgur.com/y6qeB1l.png" group-title="HTV",HTV7
+http://192.168.1.1:2401/rtp/232.84.1.21:8100
+#EXTINF:-1 tvg-id="MyTV_HTV9" tvg-name="HTV9" tvg-logo="https://imgur.com/4lye78k.png" group-title="HTV",HTV9
+http://192.168.1.1:2401/rtp/232.84.1.31:8160
+#EXTINF:-1 tvg-id="MyTV_VTVCab3 - Thể thao TV" tvg-name="VTVCab 3 - The Thao TV" tvg-logo="https://imgur.com/JWpblDs.png" group-title="VTV Cáp",VTVCab3 - Thể thao TV
+http://192.168.1.1:2401/rtp/232.84.1.208:9222
+#EXTINF:-1 tvg-id="MyTV_VTVCab16 - Bóng đá TV" tvg-name="VTVCab 16 - Bong Da TV" tvg-logo="https://imgur.com/gqyRJvt.png" group-title="VTV Cáp",VTVCab16 - Bóng đá TV
+http://192.168.1.1:2401/rtp/232.84.1.138:8802
+#EXTINF:-1 tvg-id="MyTV_VTVCab - MTV" tvg-name="MTV" tvg-logo="https://imgur.com/TpqnP2q.png" group-title="VTV Cáp",VTVCab - MTV
+http://192.168.1.1:2401/rtp/232.84.1.82:8466
+#EXTINF:-1 tvg-id="MyTV_HTVC - Paramount" tvg-name="HTVC - Phim" tvg-logo="https://imgur.com/OuSkG5W.png" group-title="HTV Cáp",HTVC - Paramount
+http://192.168.1.1:2401/rtp/232.84.1.105:8604
+#EXTINF:-1 tvg-id="MyTV_VTC1" tvg-name="VTC1" tvg-logo="https://imgur.com/DnK6kzz.png" group-title="VTC",VTC1
+http://192.168.1.1:2401/rtp/232.84.1.30:8154
+#EXTINF:-1 tvg-id="MyTV_VTC3" tvg-name="VTC3" tvg-logo="https://imgur.com/C33G2vj.png" group-title="VTC",VTC3
+http://192.168.1.1:2401/rtp/232.84.1.60:8232
+#EXTINF:-1 tvg-id="MyTV_VTC4 - yeah1Family" tvg-name="VTC4" tvg-logo="https://imgur.com/VsjIiRT.png" group-title="VTC",VTC4 - yeah1Family
+http://192.168.1.1:2401/rtp/232.84.2.37:10630
+#EXTINF:-1 tvg-id="MyTV_VTC5 - TV Blue" tvg-name="VTC5" tvg-logo="https://imgur.com/q0RPSP8.png" group-title="VTC",VTC5 - TV Blue
+http://192.168.1.1:2401/rtp/232.84.2.38:10636
+#EXTINF:-1 tvg-id="MyTV_VTC7 - Today TV" tvg-name="VTC7 - Today" tvg-logo="https://imgur.com/iMDjKF9.png" group-title="VTC",VTC7 - Today TV
+http://192.168.1.1:2401/rtp/232.84.1.213:9252
+#EXTINF:-1 tvg-id="MyTV_VTC9" tvg-name="VTC9" tvg-logo="https://imgur.com/1RDaToZ.png" group-title="VTC",VTC9
+http://192.168.1.1:2401/rtp/232.84.1.59:8334
+#EXTINF:-1 tvg-id="MyTV_VTC13 - Ca nhạc" tvg-name="VTC13" tvg-logo="https://imgur.com/bTPLt72.png" group-title="VTC",VTC13 - Ca nhạc
+http://192.168.1.1:2401/rtp/232.84.1.62:8346
+#EXTINF:-1 tvg-id="MyTV_Animal Planet" tvg-name="Animal Planet" tvg-logo="https://imgur.com/6Q4WzwS.png" group-title="Quốc tế",Animal Planet
+http://192.168.1.1:2401/rtp/232.84.1.48:8268
+#EXTINF:-1 tvg-id="MyTV_Asian Food Channel" tvg-name="Asian Food Channel" tvg-logo="https://imgur.com/rfR7R00.png" group-title="Quốc tế",Asian Food Channel
+http://192.168.1.1:2401/rtp/232.84.1.115:10236
+#EXTINF:-1 tvg-id="MyTV_AXN" tvg-name="AXN" tvg-logo="https://imgur.com/OnJMiz5.png" group-title="Quốc tế",AXN
+http://192.168.1.1:2401/rtp/232.84.1.14:8058
+#EXTINF:-1 tvg-id="MyTV_Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://imgur.com/Ye5JaCG.png" group-title="Quốc tế",Cartoon Network
+http://192.168.1.1:2401/rtp/232.84.1.16:8070
+#EXTINF:-1 tvg-id="MyTV_CNN" tvg-name="CNN" tvg-logo="https://imgur.com/cyQpqTX.png" group-title="Quốc tế",CNN
+http://192.168.1.1:2401/rtp/232.84.2.126:8076
+#EXTINF:-1 tvg-id="MyTV_Channel V" tvg-name="Channel V" tvg-logo="https://imgur.com/e0X2Ex6.png" group-title="Quốc tế",Channel V
+http://192.168.1.1:2401/rtp/232.84.1.13:8052
+#EXTINF:-1 tvg-id="MyTV_Da Vinci Learning" tvg-name="Da Vinci Learning HD" tvg-logo="https://imgur.com/vf9RpQb.png" group-title="Quốc tế",Da Vinci Learning
+http://192.168.1.1:2401/rtp/232.84.1.108:10224
+#EXTINF:-1 tvg-id="MyTV_DISCOVERY" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/LkZ4KyS.png" group-title="Quốc tế",DISCOVERY
+http://192.168.1.1:2401/rtp/232.84.1.47:8262
+#EXTINF:-1 tvg-id="MyTV_DISNEY" tvg-name="Disney Channel" tvg-logo="https://imgur.com/pycFGMd.png" group-title="Quốc tế",DISNEY
+http://192.168.1.1:2401/rtp/232.84.1.18:8082
+#EXTINF:-1 tvg-id="MyTV_Fashion" tvg-name="Fashion TV" tvg-logo="https://imgur.com/aiPSYq1.png" group-title="Quốc tế",Fashion
+http://192.168.1.1:2401/rtp/232.84.1.2:7986
+#EXTINF:-1 tvg-id="MyTV_FOX" tvg-name="Fox Family Movies" tvg-logo="https://imgur.com/T3J5274.png" group-title="Quốc tế",FOX
+http://192.168.1.1:2401/rtp/232.84.1.66:8370
+#EXTINF:-1 tvg-id="MyTV_FOX Life" tvg-name="FOX Life" tvg-logo="https://imgur.com/1bV8abI.png" group-title="Quốc tế",FOX Life
+http://192.168.1.1:2401/rtp/232.84.2.119:8382
+#EXTINF:-1 tvg-id="MyTV_FOX Movies" tvg-name="FOX Movies" tvg-logo="https://imgur.com/keaKVLJ.png" group-title="Quốc tế",FOX Movies
+http://192.168.1.1:2401/rtp/232.84.1.10:8034
+#EXTINF:-1 tvg-id="MyTV_FOX Sports" tvg-name="Fox Sports" tvg-logo="https://imgur.com/vJI3xd4.png" group-title="Quốc tế",FOX Sports
+http://192.168.1.1:2401/rtp/232.84.1.11:8040
+#EXTINF:-1 tvg-id="MyTV_FOX Sports 2" tvg-name="Fox Sports 2" tvg-logo="https://imgur.com/u9tYnNb.png" group-title="Quốc tế",FOX Sports 2
+http://192.168.1.1:2401/rtp/232.84.1.12:8046
+#EXTINF:-1 tvg-id="MyTV_HBO SD" tvg-name="HBO" tvg-logo="https://imgur.com/QFrEi4i.png" group-title="Quốc tế",HBO SD
+http://192.168.1.1:2401/rtp/232.84.1.19:8088
+#EXTINF:-1 tvg-id="MyTV_MAX by HBO" tvg-name="MAX By HBO" tvg-logo="https://imgur.com/76pIxyD.png" group-title="Quốc tế",MAX by HBO
+http://192.168.1.1:2401/rtp/232.84.1.20:8094
+#EXTINF:-1 tvg-id="MyTV_MEDIACORP" tvg-name="Channel News Asia" tvg-logo="https://imgur.com/NvoNVEi.png" group-title="Quốc tế",MEDIACORP
+http://192.168.1.1:2401/rtp/232.84.1.5:8004
+#EXTINF:-1 tvg-id="MyTV_Nat Geo People" tvg-name="NGP" tvg-logo="https://imgur.com/EHa5s7J.png" group-title="Quốc tế",Nat Geo People
+http://192.168.1.1:2401/rtp/232.84.2.121:8376
+#EXTINF:-1 tvg-id="MyTV_National Geographic" tvg-name="National Geographic" tvg-logo="https://imgur.com/dlqTg6B.png" group-title="Quốc tế",National Geographic
+http://192.168.1.1:2401/rtp/232.84.2.122:8364
+#EXTINF:-1 tvg-id="MyTV_NHK WORLD" tvg-name="NHK World" tvg-logo="https://imgur.com/SBKjA9X.png" group-title="Quốc tế",NHK WORLD
+http://192.168.1.1:2401/rtp/232.84.1.8:8022
+#EXTINF:-1 tvg-id="MyTV_Red By HBO" tvg-name="RED By HBO" tvg-logo="https://imgur.com/tLRt17t.png" group-title="Quốc tế",Red By HBO
+http://192.168.1.1:2401/rtp/232.84.1.44:8244
+#EXTINF:-1 tvg-id="MyTV_Warner " tvg-name="Warner" tvg-logo="https://imgur.com/b2eCn4J.png" group-title="Quốc tế",Warner 
+http://192.168.1.1:2401/rtp/232.84.2.50:10510
